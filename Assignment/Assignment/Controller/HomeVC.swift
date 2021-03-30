@@ -26,8 +26,6 @@ class HomeVC: UIViewController {
     @IBOutlet weak var previewStackView: UIStackView!
     
     private var flag = 0
-    private var i = 0.0
-    private var timer = Timer()
     private let animation = Animation()
     
     override func viewDidLoad() {
