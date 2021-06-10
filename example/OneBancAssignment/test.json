@@ -1,0 +1,96 @@
+{
+  "userId": 1,
+  "receipeintId": 1,
+  "transactions": [
+    {
+      "id": 1257,
+      "startDate": "2021-03-24T21:24:00",
+      "endDate": "2021-03-24T21:24:02",
+      "amount": 19000.0,
+      "direction": 1,
+      "type": 1,
+      "status": 4,
+      "description": "Rent",
+      "customer": {
+        "vPayId": 1,
+        "vPay": "manindersingh@onebanc"
+      },
+      "partner": {
+        "vPayId": 2,
+        "vPay": "johnDoe@oenabanc"
+      }
+    },
+    {
+      "id": 1258,
+      "startDate": "2021-03-26T21:28:00",
+      "endDate": "2021-03-26T00:00:00",
+      "amount": 2500.0,
+      "direction": 1,
+      "type": 5,
+      "status": 1,
+      "description": "",
+      "customer": {
+        "vPayId": 1,
+        "vPay": "manindersingh@onebanc"
+      },
+      "partner": {
+        "vPayId": 2,
+        "vPay": "johnDoe@oenabanc"
+      }
+    },
+    {
+      "id": 1259,
+      "startDate": "2021-04-25T00:00:00",
+      "endDate": "2021-04-01T00:00:00",
+      "amount": 760.0,
+      "direction": 2,
+      "type": 1,
+      "status": 3,
+      "description": "",
+      "customer": {
+        "vPayId": 1,
+        "vPay": "manindersingh@onebanc"
+      },
+      "partner": {
+        "vPayId": 2,
+        "vPay": "johnDoe@oenabanc"
+      }
+    },
+    {
+      "id": 1260,
+      "startDate": "2021-05-25T21:28:40",
+      "endDate": "2021-05-01T00:00:00",
+      "amount": 1000.0,
+      "direction": 2,
+      "type": 2,
+      "status": 1,
+      "description": "Food",
+      "customer": {
+        "vPayId": 1,
+        "vPay": "manindersingh@onebanc"
+      },
+      "partner": {
+        "vPayId": 2,
+        "vPay": "johnDoe@oenabanc"
+      }
+    },
+    {
+      "id": 1261,
+      "startDate": "2021-05-27T22:24:40",
+      "endDate": "2021-05-27T22:24:40",
+      "amount": 1000.0,
+      "direction": 1,
+      "type": 1,
+      "status": 2,
+      "description": "Rent",
+      "customer": {
+        "vPayId": 1,
+        "vPay": "manindersingh@onebanc"
+      },
+      "partner": {
+        "vPayId": 2,
+        "vPay": "johnDoe@oenabanc"
+      }
+    }
+  ]
+}
